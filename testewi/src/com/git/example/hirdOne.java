@@ -1,5 +1,5 @@
 package com.git.example;
 
-public class hirdOne {
+public class hirdOne2 {
 
 }
